@@ -1,0 +1,14 @@
+.bloque{
+	width: 5000px;
+	height: 50px;
+	display: block;
+
+}
+.Amarillo{
+	background-color: yellow;
+
+}
+.Rojo{
+	background-color: red;
+
+}

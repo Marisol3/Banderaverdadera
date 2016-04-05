@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="BANDERA2.CSS">
+</head>
+<body>
+  		<div class="Amarillo bloque">laboratoria</div>
+		<div class="Rojo bloque">es</div>
+		<div class="Amarillo bloque">transformacion</div>
+</body>
+</html>

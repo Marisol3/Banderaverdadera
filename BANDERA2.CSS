@@ -1,0 +1,16 @@
+.bloque{
+	width: 250px;
+	height: 150px;
+	display: inline-block;
+	margin: 5px;
+	padding: 10px;
+
+}
+.Amarillo{
+	background-color: yellow;
+
+}
+.Rojo{
+	background-color: red;
+
+}
